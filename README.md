@@ -24,10 +24,11 @@ To run the Recipe Book application, follow these steps:
 ## Usage
 
 1. Open the application.
-2. Add recipes by providing details like name, ingredients, and instructions.
-3. Edit or delete recipes as needed.
-4. Mark recipes as tracked to manage your favorites.
-5. Schedule recipes for specific dates to plan meals effectively.
+2. Log in or register
+3. Add recipes by providing details like name, ingredients, and instructions.
+4. Edit or delete recipes as needed.
+5. Mark recipes as tracked to manage your favorites.
+6. Schedule recipes for specific dates to plan meals effectively.
 
 ## Technical Details
 
